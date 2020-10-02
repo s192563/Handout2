@@ -29,7 +29,7 @@ nWolf <- 50 # initial wolf population size
 gainFoodWolf <- 20 # amount of energy wolves get for every sheep eaten
 reproWolf <- 5 # probability in % of a wolf reproducing at each time step
 numWolves <- nWolf # keep track of how many wolves there is
-energyreprowolf <-40
+energyreprowolf <-500
 # The world is wrapped,
 # so torus = TRUE will be used in the movement functions (e.g., fd())
 
